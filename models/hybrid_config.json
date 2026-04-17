@@ -1,0 +1,13 @@
+{
+  "w_proto": 0.34500000000000003,
+  "w_xgb": 0.655,
+  "tau_dist": 0.5938882231712341,
+  "p_thresh": 0.08599275350570679,
+  "xgb_model_path": "xgb_on_proto_emb.model",
+  "proto_centroid_path": "euc_final_centroids.pt",
+  "proto_model_obj": "in-memory",
+  "normalization": "global",
+  "tau_model": 1.0,
+  "selection_strategy": "validation_grid_coarse_refine",
+  "best_validation_accepted_acc": 0.9320772403449569
+}
