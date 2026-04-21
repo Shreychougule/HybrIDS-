@@ -1,0 +1,4 @@
+datasets/*.csv
+datasets/*.zip
+datasets/**/*.csv
+datasets/**/*.zip
